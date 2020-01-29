@@ -234,7 +234,7 @@ def make_html():
 
         <h1>Data overview</h1>
         <img style="width: 100%;margin:auto" src="scatter.png"">
-        <figcaption>All datapoints (n=)</figcaption>
+        <figcaption>All datapoints</figcaption>
         <img style="width: 100%;margin:auto" src="lines.png"">
         <figcaption>The computed sleep-durations between the sleep-and wakeup indicators.</figcaption>
     </div>
